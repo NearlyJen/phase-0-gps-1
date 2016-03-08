@@ -13,4 +13,4 @@
 
     [totally a link](http://www.bbc.com)
 
-    [jen](jen.gif)
+    [jen](jen.GIF)
